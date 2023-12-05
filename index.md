@@ -1,0 +1,2 @@
+# Bio
+Hello there ! I'm David, a systems engineer and current Erasmus mundus joint master degree in Medical Imaging And Applications student, or as we prefer to call it: MAIA MsC student. Here you can see briefly my work done so far, don't hesitate in having a look and contacting me.

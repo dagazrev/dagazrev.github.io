@@ -30,4 +30,4 @@ a comparison between two neural networks is presented: Convolutional Neural Netw
 patients with schizophrenia, using the control group to compare. Then at the end, a comparison/discusion about the two types of methods
 is presented.
 
-[Return to main page](../index.md)
+[Return to main page](https://dagazrev.github.io/)

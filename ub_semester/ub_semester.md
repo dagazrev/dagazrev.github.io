@@ -29,3 +29,5 @@ Deep Learning approaches, the tools are completely different since the idea is t
 a comparison between two neural networks is presented: Convolutional Neural Networks and autoencoders. Both aiming to diagnose
 patients with schizophrenia, using the control group to compare. Then at the end, a comparison/discusion about the two types of methods
 is presented.
+
+[Return to main page](../index.md)

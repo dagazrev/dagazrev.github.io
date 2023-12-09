@@ -1,5 +1,5 @@
 # MAIA Master at Université de Bourgogne
-The overall objective of this first semester 🇫🇷 is to start from science fundamentals, low-level image, and signal processing and acquisition. Relevant courses in this semester are:
+The overall objective of this first semester is to start from science fundamentals, low-level image, and signal processing and acquisition. Relevant courses in this semester are:
 
 * Applied Mathematics for Medical Imaging
 * Software Engineering

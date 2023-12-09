@@ -1,5 +1,5 @@
 # MAIA Master at Université de Bourgogne
-The overall objective of this first semester is to start from science fundamentals, low-level image, and signal processing and acquisition. Relevant courses in this semester are:
+The overall objective of this first semester 🇫🇷 is to start from science fundamentals, low-level image, and signal processing and acquisition. Relevant courses in this semester are:
 
 * Applied Mathematics for Medical Imaging
 * Software Engineering
@@ -29,5 +29,7 @@ Deep Learning approaches, the tools are completely different since the idea is t
 a comparison between two neural networks is presented: Convolutional Neural Networks and autoencoders. Both aiming to diagnose
 patients with schizophrenia, using the control group to compare. Then at the end, a comparison/discusion about the two types of methods
 is presented.
+
+[Back to top](#maia-master-at-université-de-bourgogne)
 
 [Return to main page](https://dagazrev.github.io/)
